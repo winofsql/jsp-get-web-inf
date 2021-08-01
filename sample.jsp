@@ -1,7 +1,5 @@
 <%@ page
     language="java"
-    import="java.io.*"
-    import="java.text.*"
     import="java.util.*"
     contentType="text/html;charset=utf-8" %>
 <%!
