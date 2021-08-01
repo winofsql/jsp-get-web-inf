@@ -38,6 +38,7 @@ String title = "WEB-INF\\web.xml";
 <div class="alert alert-primary"><%= title %></div>
 <div id="content" class="m-5">
 <% 
+
 Enumeration enumParam = application.getInitParameterNames();
 String key;
 String value;
